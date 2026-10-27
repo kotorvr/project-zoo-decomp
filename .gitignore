@@ -1,0 +1,37 @@
+# Game files: the user's own dumps. NEVER commit, upload or paste anything from these.
+/orig/
+*.iso
+*.gcm
+*.rvz
+*.ciso
+*.wbfs
+*.xiso
+*.xbe
+*.elf
+*.dol
+*.rel
+*.bin
+*.img
+*.cue
+*.chd
+
+# Build output and downloaded toolchains
+/build/
+/out/
+/tools/bin/
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Local working state
+/Intermediate/
+/logs/
+__pycache__/
+*.pyc
+.venv/
+.vs/
+.vscode/
+*.user
+.claude/settings.local.json
+.claude/worktrees/
