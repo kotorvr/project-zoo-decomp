@@ -27,7 +27,7 @@ P3 can start before P2 ends: a port runs mixed matched C and translated/non-matc
 | date | decision | by |
 |---|---|---|
 | 2026-10-27 | workflow = KOTOR/Echo's (orchestrator, planner, auditor, workstreams, CLI launcher, all accounts, bypassPermissions) | the user ("look at my workflow for kotor and echoquestcombat") |
-| 2026-10-27 | **proposed**: primary target PS2 NTSC-U SLUS-20647; PC EU build + Aug 2003 prototype as references | awaiting the user |
+| 2026-10-27 | primary target PS2 NTSC-U SLUS-20647 (disc VER=1.01, ISO SHA-1 `28BD5257ECC56F9802105A9A1B05B9452252DCFB`, in `orig/SLUS-20647/`); PC EU build + Aug 2003 prototype as references when the user has them | the user supplied this disc: "please check my downloads for the ROM and you start the orchestrator" |
 | 2026-10-27 | **proposed**: renderer = native renderer replacing GS/VU code (OpenGOAL route) on an RHI, per-view matrices from day one for VR | awaiting the user |
 
 ## Status (one row per workstream)
